@@ -1,0 +1,26 @@
+{
+  "name": "paramotest",
+  "version": "1.0.0",
+  "description": "Test Paramo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaninaquezada/ParamoTest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Vanina Quezada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaninaquezada/ParamoTest/issues"
+  },
+  "homepage": "https://github.com/Vaninaquezada/ParamoTest#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
